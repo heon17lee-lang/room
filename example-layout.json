@@ -1,0 +1,64 @@
+{
+  "format": "roomlab-dongtan-36a-v1",
+  "model": "dongtan-a105-36a",
+  "items": [
+    {
+      "id": "f-mw368f0h-uc90cyve",
+      "name": "퀸 침대 세트",
+      "w": 1600,
+      "d": 2150,
+      "h": 1000,
+      "color": "#c3ad94",
+      "type": "queenSet",
+      "x": 5150,
+      "y": 5000,
+      "rot": 0,
+      "catalogId": "queen-set",
+      "pose": "upright"
+    },
+    {
+      "id": "f-mw368f0h-o4drp752",
+      "name": "데스커 1600 책상",
+      "w": 1600,
+      "d": 800,
+      "h": 720,
+      "color": "#cfb18a",
+      "type": "desk",
+      "x": 1250,
+      "y": 1500,
+      "rot": 0,
+      "catalogId": "desker1600",
+      "pose": "upright"
+    },
+    {
+      "id": "f-mw368f0h-dv9x11wp",
+      "name": "아이와비 소파베드",
+      "w": 1300,
+      "d": 620,
+      "h": 650,
+      "color": "#a8b3ab",
+      "type": "sofaBed",
+      "x": 2000,
+      "y": 4900,
+      "rot": 0,
+      "catalogId": "iwabi-sofabed",
+      "pose": "upright"
+    },
+    {
+      "id": "f-mw368f0h-ue8ri06t",
+      "name": "우드레이 거실 테이블",
+      "w": 1200,
+      "d": 600,
+      "h": 320,
+      "color": "#b38b60",
+      "type": "table",
+      "x": 2000,
+      "y": 6000,
+      "rot": 0,
+      "catalogId": "woodray-table",
+      "pose": "upright"
+    }
+  ],
+  "ceiling": 2400,
+  "cabdepth": 600
+}
